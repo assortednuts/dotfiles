@@ -1,13 +1,13 @@
 *
 
 !.gitignore
-!wofi/
-!waybar/
-!nvim/
-!hypr/
-!kitty/
+!wofi/*
+!waybar/*
+!nvim/*
+!hypr/*
+!kitty/*
 !fish/config.fish
 !fish/fish_variables
-!fish/functions
+!fish/functions/*
 
 !*/
